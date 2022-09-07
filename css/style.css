@@ -163,7 +163,12 @@ footer{
     background-color: #008aff;
 }
 .f_content{}
-.f_content f_p{}
+.f_content f_p{
+      margin: 0;
+    text-align: center;
+    word-spacing: 3px;
+    color: white;
+}
 .f_content f_p a{}
 
 
