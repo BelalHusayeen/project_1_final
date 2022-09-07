@@ -158,7 +158,10 @@ background-color:#FFF8E8;
 }
 /*Service Section End*/
 /*footer star*/
-footer{}
+footer{
+      padding: 30px 0;
+    background-color: #008aff;
+}
 .f_content{}
 .f_content f_p{}
 .f_content f_p a{}
