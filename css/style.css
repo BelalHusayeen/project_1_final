@@ -123,8 +123,6 @@ header{
   overflow: hidden;
   margin: 50px auto;
   border: 1px solid black;
-  
-  
 }
 .s_single{
   margin-right: 26px;
@@ -133,7 +131,7 @@ header{
   padding: 50px 25px;
   float: left;
 }
-.s_contant:last-child{
+.single3{
   margin-right: 0;
 }
 .pink{
@@ -145,7 +143,7 @@ header{
 }
 .s_p{
   margin: 0;
-  line-height: 15px ;
+  line-height: 25px ;
 }.s_img{}
 .s_img img{
   width: 100%;
@@ -157,19 +155,24 @@ header{
 background-color:#FFF8E8;
 }
 /*Service Section End*/
+
 /*footer star*/
 footer{
-      padding: 30px 0;
-    background-color: #008aff;
+  padding: 30px 0;
+  background-color: #008aff;
 }
-.f_content{}
-.f_content f_p{
-      margin: 0;
-    text-align: center;
-    word-spacing: 3px;
-    color: white;
+.f_content{
+  text-align: center;
 }
-.f_content f_p a{}
+.f_content{
+  margin: 0;
+  text-align: center;
+  word-spacing: 3px;
+  color: white;
+}
+.f_p a{
+  color: white;
+}
 
 
 /*footer end*/
